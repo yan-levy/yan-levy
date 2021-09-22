@@ -10,9 +10,10 @@
 
 - 🌱 Estudando **JavaScript, CSS & HTML**
   
-<img align="right" alt="Coding" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611b3b1eee61f592ef66f3deff3e4a4e84442f17177&rid=giphy.gif">
+<img align="right" alt="Coding" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611b3b1eee61f592ef66f3deff3e4a4e84442f17177&rid=giphy.gif"/>
   
-- 📫 Como me contatar **yanbatistacel@gmail.com**
+  
+- 📫 Email - **yanbatistacel@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
