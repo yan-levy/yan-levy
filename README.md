@@ -2,10 +2,11 @@
 
 <div>
   <a href="https://github.com/yan-levy">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=yan-levy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-levy&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="auto" align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=yan-levy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="auto" align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-levy&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<h1 align="center">Olá 👋, Eu sou Yan Levy</h1>
+  
+<h1 align="center">Olá 👋, sou o Yan Levy! Seja muito bem-vindo!</h1>
 <h3 align="center">Desenvolvedor front-end apaixonado por 👨‍💻 tecnologias, 🎵 música e 🕹️ jogos.</h3>
 
 - 🌱 Estudando **JavaScript, CSS & HTML**
