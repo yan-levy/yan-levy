@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/yan-levy">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=yan-levy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-levy&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="400px" align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=yan-levy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="400px" align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-levy&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div>
 <h1 align="center"><br><br><br><br><br>Olá 👋, sou o Yan Levy! Seja muito bem-vindo!</h1>
