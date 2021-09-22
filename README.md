@@ -1,9 +1,9 @@
 ![for-read-me](https://user-images.githubusercontent.com/89747370/134262639-349e59a0-c8c4-43a7-83c4-2b1c59ebab9b.png)
 
-<div class="container">
+<div>
   <a href="https://github.com/yan-levy">
-  <img width="auto" align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=yan-levy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="auto" align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-levy&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=yan-levy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-levy&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div>
 <h1 align="center">Olá 👋, sou o Yan Levy! Seja muito bem-vindo!</h1>
