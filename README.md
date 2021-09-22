@@ -6,7 +6,7 @@
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-levy&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div>
-<h1 align="center">Olá 👋, sou o Yan Levy! Seja muito bem-vindo!</h1>
+<h1 align="center"><br><br><br><br><br>Olá 👋, sou o Yan Levy! Seja muito bem-vindo!</h1>
 <h3 align="center">Desenvolvedor front-end apaixonado por 👨‍💻 tecnologias, 🎵 música e 🕹️ jogos.</h3>
 
 - 🌱 Estudando **JavaScript, CSS & HTML**
