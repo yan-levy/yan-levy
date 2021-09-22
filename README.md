@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/yan-levy">
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=yan-levy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img alignt="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-levy&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-levy&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <h1 align="center">Olá 👋, Eu sou Yan Levy</h1>
 <h3 align="center">Desenvolvedor front-end apaixonado por 👨‍💻 tecnologias, 🎵 música e 🕹️ jogos.</h3>
