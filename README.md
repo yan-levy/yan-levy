@@ -9,6 +9,7 @@
 <h1 align="center"><br><br><br><br><br>Hi 👋, I'm Yan Levy!</h1>
 <h3 align="center">Back-end web developer. 👨‍💻 tech & 🎵 music.</h3>
 
+- 🔭 I’m currently working at Tutiplast as an itern (back-end)
 - 🌱 Studying **Typescript, NodeJS, Express & Prisma**
   
 <img align="right" alt="Coding" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611b3b1eee61f592ef66f3deff3e4a4e84442f17177&rid=giphy.gif"/>
