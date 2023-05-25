@@ -5,7 +5,7 @@
 
 <div>
 
-- 🔭 I’m currently working at Tutiplast as Back-end Dev. Jr.
+- 🔭 I’m currently working as Back-end Dev. Jr.
   
 - 💌 Email - **yanbatistacel@gmail.com**
 
